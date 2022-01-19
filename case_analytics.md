@@ -91,3 +91,5 @@ Ex: Para um cliente de código 12345 que só teve 3 registros na tabela, a query
       12345             |  '2021-02-01' |           250              | 50%
       12345             |  '2021-03-01' |           150              | 30%
 ```
+
+***Obs:** Nas questões de SQL não será preciso mostrar resultados, apenas a query com a lógica usada.
