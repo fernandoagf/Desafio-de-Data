@@ -73,7 +73,7 @@ Ex:
         Nome na Planilha: Quantidade de Transações 
         Nome na Tabela:   quantidade_de_transacoes
 
-### Usando a linguagem ***standard SQL*** escreva a lógica de uma query que:
+### Usando a linguagem ***standard SQL*** escreva 4 lógicas de query que:
 
 1) Conte o número de cidades distintas em que cada tipo de canal de venda atua.
 
