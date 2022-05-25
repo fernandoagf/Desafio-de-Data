@@ -66,8 +66,7 @@ Realize a análise e monte uma apresentação com ferramentas de sua escolha, mo
 
 ## Parte 2 - Questões de lógica SQL
 
-Imagine que a tabela do google sheets, usada na primeira parte do desafio, seja uma cópia fiel de uma tabela do banco de dados da Stone chamada *"clientes_custos_receitas"* .
-Também considere que as colunas nomeadas na planilha refletem as colunas da tabela, que por sua vez estão em ***snake_case***.
+Imagine que a tabela do google sheets, usada na primeira parte do desafio, tenha sido extraída de uma tabela do banco de dados da Stone chamada *"clientes_custos_receitas"* que é populada até os dias de hoje. Também Considere que as colunas nomeadas na planilha refletem as colunas da tabela, que por sua vez estão em ***snake_case***.
 Ex:
 
         Nome na Planilha: Quantidade de Transações 
